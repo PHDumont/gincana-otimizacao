@@ -47,10 +47,29 @@ gincana-otimizacao/
 
 ## Como rodar
 
+Requer Python 3. Em distribuições Linux com Python "externally managed"
+(Arch, Debian/Ubuntu recentes etc.), use um ambiente virtual para evitar o
+erro `externally-managed-environment`:
+
 ```bash
+git clone https://github.com/PHDumont/gincana-otimizacao.git
+cd gincana-otimizacao
+
+python -m venv venv
+source venv/bin/activate    # Windows: venv\Scripts\activate
+
 pip install pandas
 python src/analise.py
 ```
+
+Nas próximas vezes, basta reativar o ambiente virtual antes de rodar:
+
+```bash
+source venv/bin/activate
+python src/analise.py
+```
+
+Para sair do ambiente virtual: `deactivate`.
 
 ## Principal desafio técnico
 
