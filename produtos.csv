@@ -1,0 +1,31 @@
+mercado,produto,categoria,pontos,preco
+Mercado Central,Arroz 5kg,Grãos,50,24.90
+Mercado Central,Feijão 1kg,Grãos,20,8.50
+Mercado Central,Óleo de Soja 900ml,Óleos,15,7.90
+Mercado Central,Açúcar 5kg,Grãos,30,19.90
+Mercado Central,Macarrão 500g,Massas,10,4.50
+Mercado Central,Leite em Pó 400g,Laticínios,25,17.90
+Mercado Central,Café 500g,Bebidas,20,14.90
+Mercado Central,Sal 1kg,Temperos,5,2.50
+Mercado Central,Farinha de Trigo 1kg,Grãos,12,6.90
+Mercado Central,Molho de Tomate 340g,Enlatados,8,4.20
+BomPreço,Arroz 5kg,Grãos,50,22.50
+BomPreço,Feijão 1kg,Grãos,20,7.90
+BomPreço,Óleo de Soja 900ml,Óleos,15,8.50
+BomPreço,Açúcar 5kg,Grãos,30,21.90
+BomPreço,Macarrão 500g,Massas,10,3.90
+BomPreço,Leite em Pó 400g,Laticínios,25,19.50
+BomPreço,Café 500g,Bebidas,20,13.50
+BomPreço,Sal 1kg,Temperos,5,2.20
+BomPreço,Farinha de Trigo 1kg,Grãos,12,7.50
+BomPreço,Molho de Tomate 340g,Enlatados,8,3.90
+Super Economia,Arroz 5kg,Grãos,50,26.90
+Super Economia,Feijão 1kg,Grãos,20,9.20
+Super Economia,Óleo de Soja 900ml,Óleos,15,7.50
+Super Economia,Açúcar 5kg,Grãos,30,18.50
+Super Economia,Macarrão 500g,Massas,10,4.90
+Super Economia,Leite em Pó 400g,Laticínios,25,16.90
+Super Economia,Café 500g,Bebidas,20,15.90
+Super Economia,Sal 1kg,Temperos,5,2.80
+Super Economia,Farinha de Trigo 1kg,Grãos,12,6.50
+Super Economia,Molho de Tomate 340g,Enlatados,8,4.50
